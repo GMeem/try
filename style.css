@@ -1,0 +1,42 @@
+* {
+  padding:0;
+  margin: 0;
+}
+
+body{
+  background: url("background.png");
+  background-repeat: repeat;
+  height: 50px;
+}
+
+.main{
+  
+  width: 500 px;
+  height: 200px;
+  margin: 200px auto;
+  position: relative;
+  
+}
+
+.YearUp{
+  
+  color: black;
+  width: 100px;
+  position:absolute;
+  top: -15px;
+  left: 40%;
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.digitalClock{
+  
+  text-align: center;
+  font-size: 200px;
+  font-family: 'impact', cursive;
+  height: 100%;
+}
